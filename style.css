@@ -3,3 +3,7 @@ h1 {
     color:whitesmoke;
     
 }
+body {
+    background-image: url("paper.gif");
+    background-color: white;
+   }
